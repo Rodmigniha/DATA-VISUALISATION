@@ -12,6 +12,7 @@ def main():
     print(f"Reversed: {reverse_string(test_string)}")
     print(f"Vowel count: {count_vowels(test_string)}")
     print(f"Capitalized: {capitalize_words(test_string)}")
+    print("Hi! PARIS")
     
     
 if __name__ == "__main__":
