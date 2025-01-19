@@ -1,0 +1,10 @@
+dist/
+.pytest_cache/
+
+__pycache__/
+
+# Sphinx documentation
+docs/build/
+
+*.DS_Store
+.coverage
