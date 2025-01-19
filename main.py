@@ -1,6 +1,5 @@
 from package_creation_tutorial.string_ops import reverse_string, count_vowels
 from package_creation_tutorial.string_ops import capitalize_words
-import os
 
 
 def main():
